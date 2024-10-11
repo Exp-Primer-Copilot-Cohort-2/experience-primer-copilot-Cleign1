@@ -1,6 +1,3 @@
-function calculation() {
-    var a = 10;
-    var b = 20;
-    var c = a + b;
-    return c;
+function calculateNumbers(var1, var2) {
+    console.log(var1 + var2);
 }
